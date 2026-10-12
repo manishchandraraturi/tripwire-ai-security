@@ -104,7 +104,7 @@ We are honest about that last row. Tripwire is one strong layer, not a magic shi
 
 ## 👨‍💻 Team
 
-**Manish Chandra Raturi** · [Teammate name]
+**Manish Chandra Raturi** · **Manavi Lal**
 
 Built for **CyberForge 2026** by Mitigata x HackCulture.
 
